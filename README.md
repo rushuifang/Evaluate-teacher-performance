@@ -12,3 +12,9 @@ The dataset contains empty elements because selectives are inevitably not chosen
 
 ## Goal
 For each course, every top 6% students earn their class unit/ correponding teacher 0.95 points, the rest of 94% is divided into 20 intervals. Students would earn 0.9, 0.85, ..., 0.05, 0.03 and 0.02 points accordingly for those 20 intervals. Teacher who is in charge of that specific course in that class unit with the highest points gets cash prize.
+
+## Note
+* Total number of students in each course is different.
+* Rank can be duplicate if multiple students have the same grade.
+* Total number of students attending monthly exams varies.
+* Results should be represented in excel format and attached to the same file.
