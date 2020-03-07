@@ -6,7 +6,7 @@ There are currently 414 students in grade 10 at Longchi high school. Chinese, Ma
 
 Goal:
 This school focus on students grades like every other Chinese high school does. To stimulate teachers performances, the principle ranks students not only by total grades but also by every single subject. Attached is a sample for the recent final exam. 
-
+![](https://github.com/rushuifang/hackbu/blob/master/dataSnapshot.png)
 The dataset contains empty elements because selectives are not chosen by every students. Therefore, they are not in the rank for competion of that subject.
 
 For each subjects, every top 6% students earn their class 0.95 point, the rest of them is divided into 20 intervals. Students earn their class 0.9,0.85,..., 0.05, then 0.03 and 0.02 in those 20 intervals. Teacher who is in charge of the class units of that specific subject with the highest points can get cash prize.
