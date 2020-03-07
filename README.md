@@ -17,4 +17,4 @@ For each course, every top 6% students earn their class unit/ correponding teach
 * Total number of students in each course is different.
 * Rank can be duplicate if multiple students have the same grade.
 * Total number of students attending monthly exams varies.
-* Results should be represented in excel format and attached to the same file.
+* Results should be represented in excel format and attached to the same finals.xlsx file.
